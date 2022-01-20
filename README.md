@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sarah-kc
-- 👀 I’m interested in ... data, horses, and wellness
-- 🌱 I’m currently learning ... python  
-- 💞️ I’m looking to collaborate on ... my eduction
-- 📫 How to reach me ... not sure
+- 👋 Hi, I’m Sarah!
+- 👀 I’m interested in data, horses, and reading.
+- 🌱 I’m currently learning Python. 
+- 💞️ I’m looking to collaborate on anything someone is willing to teach me!
+- 📫 How to reach me via email: sarahkcryan@gmail.com
 
 <!---
 Sarah-kc/Sarah-kc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
